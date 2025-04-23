@@ -1,0 +1,32 @@
+body{
+	background: #bce043;
+	background: radial-gradient(circle, rgba(188, 224, 67, 1) 0%, rgba(132, 199, 87, 1) 50%, rgba(237, 221, 83, 1) 100%);
+	font-family: Times new Roman;
+	text-shadow: 4px 4px 11px rgba(255,255,255,0.6);
+}
+.head{
+	background-image: url(https://vitalityweightlossinstitute.com/wp-content/uploads/2023/05/bmi.png);
+	text-shadow: 4px 3px 0px rgba(244,255,11,0.7);
+	padding: 15px;
+	margin: 30px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+.container{
+	background-image: url(https://vitalityweightlossinstitute.com/wp-content/uploads/2023/05/bmi.png);
+	background-position: center;
+	background-size: 500px;
+	background-repeat: no-repeat;
+	margin: 40px;
+	padding: 20px;
+	box-shadow: 0px 0px 53px 13px rgba(203,213,78,0.75);
+	-webkit-box-shadow: 0px 0px 53px 13px rgba(203,213,78,0.75);
+	-moz-box-shadow: 0px 0px 53px 13px rgba(203,213,78,0.75);
+
+}
+label{
+	background-color: #A2BEFF;
+	margin: 15px;
+	padding: 10px;
+	border-radius: 25px;
+}
